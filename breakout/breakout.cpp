@@ -6,7 +6,7 @@
 #include "game.hpp"
 #include "resource_manager.hpp"
 
-void key_callback(GLFWwindow* window, int key, int scancode, int action, int mode);
+void key_callback(GLFWwindow * window, int key, int scancode, int action, int mode);
 
 const GLuint SCREEN_WIDTH = 800;
 // The height of the screen
